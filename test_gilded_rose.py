@@ -111,6 +111,5 @@ class GildedRoseTest(unittest.TestCase):
         gilded_rose.update()
         self.assertEquals(5, items[0].sell_in)
 
-
 if __name__ == '__main__':
     unittest.main()
