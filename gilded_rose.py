@@ -58,3 +58,4 @@ class Item:
                 self.quality = self.quality - 1
         self.sell_in = self.sell_in - 1
 
+
